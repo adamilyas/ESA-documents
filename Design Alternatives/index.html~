@@ -1,0 +1,113 @@
+<!doctype html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Engineering Systems Architecture</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+
+        <link rel="stylesheet" href="../assets/css/navmenu/styles.css">
+        <link rel="stylesheet" href="../assets/css/portfolio.jquery.css">
+        <link rel="stylesheet" href="../assets/css/fonticons.css">
+        <link rel="stylesheet" href="../assets/style.css">
+        <link rel="stylesheet" href="../assets/fonts/stylesheet.css">
+        <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+
+        <!--For Plugins external css-->
+        <link rel="stylesheet" href="../assets/css/plugins.css" />
+
+        <!--Theme custom css -->
+        <link rel="stylesheet" href="../assets/css/style.css">
+
+        <!--Theme Responsive css-->
+        <link rel="stylesheet" href="../assets/css/responsive.css" />
+
+        <script src="../assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body data-spy="scroll" data-target=".navbar-collapse">
+
+        <!--Home page style-->
+        <nav>
+
+
+            <div class="container">
+                <div class="nav-top clearfix">
+                    <div class="logo">
+
+                        <p> 40.014 Engineering Systems Architecture, Submission Date: 10th April 2018</p>
+                        
+                    </div>
+                    
+                    <div class="head_top_social pull-right" style="margin-top:10px;">
+                        <ul class="list-inline">
+                            <li><a href="../Cover Page/index.html">Cover Page</a></li>
+                            <li><a href="../Mission Statement/index.html">Mission Statement</a></li>
+                            <li><a href="../User Characteristics/index.html">User Characteristics</a></li>                            
+                            <li><a href="../Influence Diagrams/index.html">Influence Diagrams</a></li>
+                            <li><a href="../Operational Concept/index.html"></i>Operation Concept</a></li>
+                            <li><a href="../Use Cases and Scenarios/index.html"></i>Use Cases and Scenarios</a></li>
+                            <li><a href="../Design Alternatives/index.html"></i>Design Alternative</a></li>
+                            <li><a href="../Scorecard/index.html">Scorecard</a</li>
+                            <li><a href="../Integrated Concepts/index.html">Integrated Concepts</a></li>
+                            <li><a href="../Concept Selection/index.html">Concept Selection</a></li>
+                            <li><a href="../Product Family and Release Schedule/index.html">Product Family and Release Schedule</a></li>
+<li><a href="../Design Teams/index.html">Design Teams</a></li>
+                            <li><a href="../Design Rules/index.html">Design Rules</a></li>                            <li><a href="../Modes of Operation/index.html">Modes of Operation</a></li>
+                            <li><a href="../Non-functional Requirements/index.html">Non-functional Requirements</a></li>
+                            <li><a href="../Requirements Allocation/index.html">Requirements Allocation</a></li>
+                            <li><a href="../Integration and Test Plan/index.html">Integration and Test Plan</a></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+
+
+
+
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+          <div class="container" style="margin-top: 160px">
+            <div class="row">
+              <h1 style="color:black; font-family:Times New Roman; text-align:center">Design Alternatives</h1>
+            </div>
+            <div class="row">
+              <div class="col-sm-6" style="margin-top: 20px;">
+                  <img src="../assets/images/cct.JPG">
+              </div>
+              <div class="col-sm-6" style="margin-top: 20px; color:black;">
+                <p>The objective of the concept classification tree is to group classes of solutions together. The less promising branches will always be pruned</p><br>
+                <p>The mission of this project is to educate people about healthy living. The team then broke this mission done into 4 main groups of solutions to this problem:</p>
+                <ol>
+                  <li>Game Type</li> 
+                  <li>Type of competitive game play</li>
+                  <li>Educational Value</li>
+                  <li>Motivational Factor to play the game</li>                  
+                </ol>
+                <p>For the Game type, the team has decided to prune the board and card game tree. From our survey results, it was show that people will be more willing to play an app game rather than a board game or card game beacuse an app is more portable, allowing users to be able to play the game as and when they like. Board games and Card games on the other hand will restrict players to a specific location when they are playing a game. Hence the team decided that the game should be an app. The team will explore into the platforms that this game should be on, either a web browser game, or an app on either the Google Play Store.</p>
+                <br>
+                
+                <p>For the Educational Value group, healthy living is a very broad theme. This may extend from number of minutes one exercises, to whether one is a smoker or not. With such a wide topic, the team decided to narrow the scope of healthy living into 4 groups:</p>
+                <ol>
+                  <li>Amount of water one drinks</li> 
+                  <li>Proper Sleep Cycles</li>
+                  <li>Proper Exercises</li>
+                  <li>Having a proper diet</li>                  
+                </ol>                
+              </div>              
+            </div>
+          </div>
+
+        <script src="../assets/js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="../assets/js/plugins.js"></script>
+        <script src="../assets/js/main.js"></script>          
+    </body>
+</html>
